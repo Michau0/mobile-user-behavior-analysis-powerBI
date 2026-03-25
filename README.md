@@ -8,7 +8,7 @@ Celem projektu była analiza zachowań użytkowników telefonów komórkowych or
 * **Power BI:** Wizualizacja danych, modelowanie i miary DAX.
 
 ## 📊 Dashboard
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](screenshots/raport.png)
 
 ## 💡 Kluczowe wnioski (Insights)
 1. **Korelacja Bateria-Użycie:** Grupa Gen Z wykazuje wyższe zużycie baterii przy mniejszej liczbie zainstalowanych aplikacji w porównaniu do Boomersów.
